@@ -1,0 +1,3 @@
+C:/Users/johnd/Documents/RP2040 projects/Tracker/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/johnd/Documents/RP2040 projects/Tracker/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/johnd/Documents/RP2040 projects/Tracker/build/pioasm/CMakeFiles/rebuild_cache.dir
